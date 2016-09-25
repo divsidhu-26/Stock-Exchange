@@ -1,0 +1,11 @@
+5 Melania 8 buy 5 C 29 T
+6 Addie 8 buy 3 A 18 T
+6 Vasiliki 2 buy 2 C 32 T
+7 Gaynell 7 buy 1 D 35 T
+7 Wilford 6 buy 4 D 11 T
+10 Pearly 10 buy 4 A 35 F
+14 ? 5 buy 0 A 17 F
+21 Hal 5 buy 2 F 11 F
+25 Brett 2 buy 1 A 32 T
+31 Yee 5 buy 4 G 38 T
+33 Ashli 5 buy 1 A 31 F
